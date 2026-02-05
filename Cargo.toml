@@ -9,7 +9,7 @@ homepage = "https://github.com/yesint/molar_xdrfile"
 repository = "https://github.com/yesint/molar_xdrfile"
 documentation = "https://docs.rs/molar"
 readme = "README.md"
-keywords = ["MD", "molecular dynamics", "science", "trajectory", "modeling"]
+keywords = ["MD", "science", "trajectory", "modeling"]
 categories = ["science", "simulation", "external-ffi-bindings"]
 description = "Legacy xdrfile FFI bindings for molar. This crate is deprecated! Use molly instead."
 
